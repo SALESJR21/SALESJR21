@@ -20,7 +20,7 @@
 <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-</div>
+</div><br/>
 
 
-
+## Desenvolvedor de Software em constante evolução, apaixonado pelo mundo tecnológico, muito curioso e tenho muita facilidade em aprender e desenvolver novas tecnologias. Acredito no potencial do trabalho em grupo e valorizo a boa comunicação. As pessoas são os recursos principais para o desenvolvimento de qualquer empresa.
