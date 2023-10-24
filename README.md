@@ -22,4 +22,4 @@
 </div><br/>
 
 
-## Desenvolvedor de Software em constante evolução, apaixonado pelo mundo tecnológico, muito curioso e tenho muita facilidade em aprender e desenvolver novas tecnologias. Acredito no potencial do trabalho em grupo e valorizo a boa comunicação. As pessoas são os recursos principais para o desenvolvimento de qualquer empresa.
+## Sou um Desenvolvedor de Software em constante evolução, apaixonado pelo mundo tecnológico. Tenho muita facilidade em aprender e desenvolver novas tecnologias. Acredito firmemente no potencial do trabalho em equipe e valorizo a boa comunicação, pois acredito que as pessoas são os recursos principais para o desenvolvimento de qualquer empresa.
