@@ -1,7 +1,12 @@
 
 
-## Olá, sou Sérgio Sales! 👋
+PT
+## ## Olá, sou Sérgio Sales! 👋
 ### É um prazer te ter aqui. 😊
+
+EN
+## Hello, I'm Sérgio Sales! 👋
+### It's a pleasure to have you here. 😊
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgio-sales-635a29229/)
