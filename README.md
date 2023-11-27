@@ -1,7 +1,7 @@
 
 
 PT
-## ## Olá, sou Sérgio Sales! 👋
+## Olá, sou Sérgio Sales! 👋
 ### É um prazer te ter aqui. 😊
 
 EN
