@@ -16,7 +16,12 @@ EN
 
 ![Sérgio Sales GitHub stats](https://github-readme-stats.vercel.app/api?username=SALESJR21&show_icons=true&theme=gruvbox)
 
+PT
 ## Tecnologias do meu dia-dia
+
+EN
+
+## Technologies in my daily life
 
 <div style="display: inline_block"><br/>
 
@@ -26,5 +31,11 @@ EN
 
 </div><br/>
 
+PT
 
 ## Sou um Desenvolvedor de Software em constante evolução, apaixonado pelo mundo tecnológico. Tenho muita facilidade em aprender e desenvolver novas tecnologias. Acredito firmemente no potencial do trabalho em equipe e valorizo a boa comunicação, pois acredito que as pessoas são os recursos principais para o desenvolvimento de qualquer empresa.
+
+
+EN
+
+## I am a Software Developer in constant evolution, passionate about the technological world. I find it very easy to learn and develop new technologies. I firmly believe in the potential of teamwork and value good communication, as I believe that people are the main resources for the development of any company.
