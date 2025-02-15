@@ -7,7 +7,7 @@
 
 
 ![Sérgio Sales GitHub stats](https://github-readme-stats.vercel.app/api?username=SALESJR21&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SALESJR21&size_weight=0.5&count_weight=0.5)
+
 
 ## Tecnologias do meu dia-dia
 
