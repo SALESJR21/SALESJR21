@@ -1,7 +1,6 @@
 
 
 ## Olá, sou Sérgio Sales! 👋
-### É um prazer te ter aqui. 😊
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgio-sales-635a29229/)
@@ -23,6 +22,4 @@
 
 </div><br/>
 
-PT
-
-## Profissional dedicado e apaixonado por tecnologia, com sólida experiência em Análise e Desenvolvimento de Sistemas. Especialista em transformar ideias em soluções digitais inovadoras, utilizando uma combinação de habilidades técnicas, pensamento crítico e criatividade. Experiência em desenvolvimento de software, gestão de projetos de TI e segurança da informação, com uma abordagem orientada a resultados e um forte compromisso com a excelência. Adaptável e sempre em busca de aprender novas tecnologias, pronto para enfrentar desafios e colaborar em equipes para criar produtos que fazem a diferença.
+## Graduando em Anélise e Desenvolvimento de Sistemas
