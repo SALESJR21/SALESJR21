@@ -22,4 +22,4 @@
 
 </div><br/>
 
-## Graduando em Anélise e Desenvolvimento de Sistemas
+## Graduando em Análise e Desenvolvimento de Sistemas
