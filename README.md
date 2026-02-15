@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/salesjr2014)
 
 
-![Sérgio Sales GitHub stats](https://github-readme-stats.vercel.app/api?username=SALESJR21&show_icons=true&theme=onedark)
+
 
 
 ## Tecnologias do meu dia-dia
